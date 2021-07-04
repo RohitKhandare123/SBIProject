@@ -8,5 +8,8 @@ public class Utility {
 		System.out.println("Utility m1() method");
 		System.out.println("Personel notes written by me");
 	}
+	public void m2() {
+		System.out.println("M2 method");
+	}
 
 }
