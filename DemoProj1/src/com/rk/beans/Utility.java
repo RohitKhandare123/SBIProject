@@ -11,5 +11,8 @@ public class Utility {
 	public void m2() {
 		System.out.println("M2 method");
 	}
+	public void m4() {
+		System.out.println("m4() method called");
+	}
 
 }
